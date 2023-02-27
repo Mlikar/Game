@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\Hra\Game\Game\Animation.h(25,29): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Animation.h(25,22): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Entity.h(26,7): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Entity.h(26,14): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Entity.h(27,22): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Entity.h(45,19): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Entity.h(46,19): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Source.cpp(38,46): warning C4305: argument: zkrácení z: double na: float
+D:\Hra\Game\Game\Source.cpp(40,44): warning C4305: argument: zkrácení z: double na: float
+D:\Hra\Game\Game\Source.cpp(48,54): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Source.cpp(72,31): warning C4244: argument: float se převádí na int; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Source.cpp(72,28): warning C4244: argument: float se převádí na int; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Source.cpp(84,30): warning C4244: +=: double se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Source.cpp(85,30): warning C4244: +=: double se převádí na float; může dojít ke ztrátě dat.
+D:\Hra\Game\Game\Source.cpp(90,14): warning C4305: *=: zkrácení z: double na: float
+D:\Hra\Game\Game\Source.cpp(91,14): warning C4305: *=: zkrácení z: double na: float
+  Game.vcxproj -> D:\Hra\Game\x64\Debug\Game.exe
